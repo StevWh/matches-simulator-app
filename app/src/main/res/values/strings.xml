@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Simulator</string>
+    <string name="cd_simulate">botão de simulação de partida.</string>
+    <string name="cd_home_team">imagem do time da casa</string>
+    <string name="cd_away_team">imagem do time visitante</string>
+    <string name="x">X</string>
 </resources>
